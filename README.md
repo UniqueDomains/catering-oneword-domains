@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .catering one-word domains from Un
 
 **Public extract:** 9,718 rows · **Live catalog:** 9,718 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/catering`  
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| alpha.catering   | available | $46.99    | $50.99        | 90             | 53     | 5      | name.com                                    |
+| alpha.catering   | available | $46.99    | $50.99        | 90             | 54     | 5      | name.com                                    |
 | aaa.catering     | resell    | $48.98    | —             | 70             | 42     | 3      | GoDaddy.com, LLC                            |
 | free.catering    | premium   | $82.50    | $82.50        | 88             | 59     | 4      | name.com                                    |
 | true.catering    | available | $46.99    | $50.99        | 86             | 52     | 4      | name.com                                    |
 | easy.catering    | resell    | —         | —             | 128            | 68     | 4      | GoDaddy.com, LLC                            |
 | ace.catering     | premium   | $42.90    | $42.90        | 88             | 57     | 3      | namecheap                                   |
-| clear.catering   | available | $46.99    | $50.99        | 90             | 50     | 5      | name.com                                    |
+| clear.catering   | available | $46.99    | $50.99        | 90             | 49     | 5      | name.com                                    |
 | domain.catering  | resell    | —         | —             | 80             | 64     | 6      | Sav.com, LLC                                |
-| live.catering    | premium   | $250      | $250          | 108            | 55     | 4      | name.com                                    |
+| live.catering    | premium   | $250      | $250          | 108            | 56     | 4      | name.com                                    |
 | real.catering    | available | $48.98    | —             | 78             | 49     | 4      | namecheap                                   |
 | the.catering     | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC                                |
 | art.catering     | premium   | $128.70   | $128.70       | 90             | 52     | 3      | namecheap                                   |
-| only.catering    | available | $46.99    | $50.99        | 110            | 47     | 4      | name.com                                    |
+| only.catering    | available | $46.99    | $50.99        | 110            | 46     | 4      | name.com                                    |
 | buy.catering     | resell    | —         | —             | 106            | 53     | 3      | GoDaddy Online Services Cayman Islands Ltd. |
-| one.catering     | premium   | $123.75   | $123.75       | 132            | 51     | 3      | name.com                                    |
-| genius.catering  | available | $46.99    | $50.99        | 98             | 47     | 6      | name.com                                    |
+| one.catering     | premium   | $123.75   | $123.75       | 132            | 50     | 3      | name.com                                    |
+| snap.catering    | available | $46.99    | $50.99        | 90             | 46     | 4      | name.com                                    |
 | tech.catering    | resell    | —         | —             | 104            | 44     | 4      | Virtualia LLC                               |
 | game.catering    | premium   | $82.50    | $82.50        | 120            | 50     | 4      | name.com                                    |
-| wizard.catering  | available | $46.99    | $50.99        | 118            | 46     | 6      | name.com                                    |
+| genius.catering  | available | $46.99    | $50.99        | 98             | 45     | 6      | name.com                                    |
 | awesome.catering | resell    | —         | —             | 98             | 44     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
