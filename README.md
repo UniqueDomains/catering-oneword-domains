@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .catering one-word domains from Un
 
 **Public extract:** 9,718 rows · **Live catalog:** 9,718 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/catering`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| alpha.catering   | available | $46.99    | $50.99        | 90             | 54     | 5      | name.com                                    |
+| alpha.catering   | available | $46.99    | $50.99        | 90             | 53     | 5      | name.com                                    |
 | aaa.catering     | resell    | $48.98    | —             | 70             | 42     | 3      | GoDaddy.com, LLC                            |
 | free.catering    | premium   | $82.50    | $82.50        | 88             | 59     | 4      | name.com                                    |
 | true.catering    | available | $46.99    | $50.99        | 86             | 52     | 4      | name.com                                    |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
