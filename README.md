@@ -66,10 +66,10 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
 | alpha.catering   | available | $46.99    | $50.99        | 90             | 53     | 5      | name.com                                    |
 | aaa.catering     | resell    | $48.98    | —             | 70             | 42     | 3      | GoDaddy.com, LLC                            |
-| free.catering    | premium   | $82.50    | $82.50        | 88             | 59     | 4      | name.com                                    |
+| ace.catering     | premium   | $42.90    | $42.90        | 88             | 57     | 3      | namecheap                                   |
 | true.catering    | available | $46.99    | $50.99        | 86             | 52     | 4      | name.com                                    |
 | easy.catering    | resell    | —         | —             | 128            | 68     | 4      | GoDaddy.com, LLC                            |
-| ace.catering     | premium   | $42.90    | $42.90        | 88             | 57     | 3      | namecheap                                   |
+| free.catering    | premium   | $82.50    | $82.50        | 88             | 57     | 4      | name.com                                    |
 | clear.catering   | available | $46.99    | $50.99        | 90             | 49     | 5      | name.com                                    |
 | domain.catering  | resell    | —         | —             | 80             | 64     | 6      | Sav.com, LLC                                |
 | live.catering    | premium   | $250      | $250          | 108            | 56     | 4      | name.com                                    |
