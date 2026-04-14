@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .catering one-word domains from Un
 
 **Public extract:** 9,718 rows · **Live catalog:** 9,718 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/catering`  
 **Best for:** founders, investors, studios
 
@@ -73,7 +73,7 @@ print(df.head())
 | clear.catering   | available | $46.99    | $50.99        | 90             | 49     | 5      | name.com                                    |
 | domain.catering  | resell    | —         | —             | 80             | 64     | 6      | Sav.com, LLC                                |
 | live.catering    | premium   | $250      | $250          | 108            | 56     | 4      | name.com                                    |
-| real.catering    | available | $48.98    | —             | 78             | 49     | 4      | namecheap                                   |
+| real.catering    | available | $48.98    | —             | 78             | 48     | 4      | namecheap                                   |
 | the.catering     | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC                                |
 | art.catering     | premium   | $128.70   | $128.70       | 90             | 52     | 3      | namecheap                                   |
 | only.catering    | available | $46.99    | $50.99        | 110            | 46     | 4      | name.com                                    |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
