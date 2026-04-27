@@ -1,22 +1,22 @@
-# Available .CATERING One-Word Domains (9,718)
+# Available .CATERING One-Word Domains (12,513)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C718%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C718%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C513%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .catering one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .catering one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,513 domains** on the canonical page below.
 
-**Public extract:** 9,718 rows · **Live catalog:** 9,718 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,513 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/catering`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CATERING one-word dom
 
 ### Files
 
-- `catering.csv` — public CSV extract (9,718 rows)
-- `catering.json` — public JSON extract (9,718 rows)
+- `catering.csv` — public CSV extract (1,000 rows)
+- `catering.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| alpha.catering   | available | $46.99    | $50.99        | 90             | 53     | 5      | name.com                                    |
-| aaa.catering     | resell    | $48.98    | —             | 70             | 42     | 3      | GoDaddy.com, LLC                            |
-| ace.catering     | premium   | $42.90    | $42.90        | 88             | 57     | 3      | namecheap                                   |
-| true.catering    | available | $46.99    | $50.99        | 86             | 52     | 4      | name.com                                    |
-| easy.catering    | resell    | —         | —             | 128            | 68     | 4      | GoDaddy.com, LLC                            |
-| free.catering    | premium   | $82.50    | $82.50        | 88             | 57     | 4      | name.com                                    |
-| clear.catering   | available | $46.99    | $50.99        | 90             | 49     | 5      | name.com                                    |
-| domain.catering  | resell    | —         | —             | 80             | 64     | 6      | Sav.com, LLC                                |
-| live.catering    | premium   | $250      | $250          | 108            | 56     | 4      | name.com                                    |
-| real.catering    | available | $48.98    | —             | 78             | 48     | 4      | namecheap                                   |
-| the.catering     | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC                                |
-| art.catering     | premium   | $128.70   | $128.70       | 90             | 52     | 3      | namecheap                                   |
-| only.catering    | available | $46.99    | $50.99        | 110            | 46     | 4      | name.com                                    |
-| buy.catering     | resell    | —         | —             | 106            | 53     | 3      | GoDaddy Online Services Cayman Islands Ltd. |
-| one.catering     | premium   | $123.75   | $123.75       | 132            | 50     | 3      | name.com                                    |
-| snap.catering    | available | $46.99    | $50.99        | 90             | 46     | 4      | name.com                                    |
-| tech.catering    | resell    | —         | —             | 104            | 44     | 4      | Virtualia LLC                               |
-| game.catering    | premium   | $82.50    | $82.50        | 120            | 50     | 4      | name.com                                    |
-| genius.catering  | available | $46.99    | $50.99        | 98             | 45     | 6      | name.com                                    |
-| awesome.catering | resell    | —         | —             | 98             | 44     | 7      | GoDaddy Online Services Cayman Islands Ltd. |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| skills.catering       | available | $46.99    | —             | 58             | 47     | 6      | name.com        |
+| hotels.catering       | resell    | —         | —             | 64             | 82     | 6      | NameCheap, Inc. |
+| jobs.catering         | premium   | $500      | —             | 79             | 42     | 4      | name.com        |
+| coins.catering        | available | $46.99    | —             | 56             | 41     | 5      | name.com        |
+| Tools.catering        | premium   | $280      | $280          | 56             | 40     | 5      | namecheap       |
+| lets.catering         | available | $46.99    | —             | 77             | 39     | 4      | name.com        |
+| events.catering       | premium   | $500      | —             | 68             | 37     | 6      | name.com        |
+| WiFi.catering         | available | $48.98    | —             | 83             | 37     | 5      | namecheap       |
+| tickets.catering      | premium   | $38.94    | $38.94        | 64             | 34     | 7      | namesilo        |
+| neuroscience.catering | available | $46.99    | —             | 80             | 37     | 12     | name.com        |
+| William.catering      | premium   | $92.40    | $92.40        | 74             | 31     | 7      | namecheap       |
+| tokens.catering       | available | $38.99    | $38.99        | 51             | 36     | 6      | namesilo        |
+| photos.catering       | premium   | $82.50    | —             | 54             | 28     | 6      | name.com        |
+| Cats.catering         | available | $48.98    | —             | 59             | 33     | 4      | namecheap       |
+| tips.catering         | premium   | $82.50    | —             | 80             | 26     | 4      | name.com        |
+| payments.catering     | available | $46.99    | —             | 58             | 33     | 8      | name.com        |
+| apartments.catering   | premium   | $78.54    | $78.54        | 60             | 21     | 10     | namesilo        |
+| teams.catering        | available | $46.99    | —             | 62             | 32     | 5      | name.com        |
+| restaurants.catering  | premium   | $82.50    | —             | 57             | 21     | 11     | name.com        |
+| maps.catering         | available | $46.99    | —             | 56             | 31     | 4      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,718-row public sample | 9,718 live domains                               |
+| 1,000-row public sample | 12,513 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
