@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .catering one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,679 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,679 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,679 domains · **Median ask:** $48.57 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/catering`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,17 @@ print(df.head())
 
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| Acup.catering         | available | $48.98    | —             | 80             | 5      | 5      | namecheap       |
+| Trex.catering         | available | $48.98    | —             | 80             | 24     | 5      | namecheap       |
+| WiFi.catering         | available | $48.98    | —             | 83             | 37     | 5      | namecheap       |
+| geton.catering        | available | $46.99    | —             | 82             | 10     | 6      | name.com        |
+| popup.catering        | available | $46.99    | —             | 84             | 29     | 6      | name.com        |
+| dogsit.catering       | available | $46.99    | —             | 96             | 2      | 6      | name.com        |
+| playin.catering       | available | $46.99    | —             | 80             | 10     | 7      | name.com        |
+| stirup.catering       | available | $46.99    | —             | 82             | 3      | 7      | name.com        |
+| dogsick.catering      | available | $46.99    | —             | 90             | 1      | 7      | name.com        |
+| getlife.catering      | available | $46.99    | —             | 80             | 5      | 8      | name.com        |
+| messages.catering     | available | $38.99    | $38.99        | 80             | 16     | 8      | namesilo        |
 | skills.catering       | available | $46.99    | —             | 58             | 47     | 6      | name.com        |
 | hotels.catering       | resell    | —         | —             | 64             | 82     | 6      | NameCheap, Inc. |
 | jobs.catering         | premium   | $500      | —             | 79             | 42     | 4      | name.com        |
@@ -71,19 +82,8 @@ print(df.head())
 | Tools.catering        | premium   | $280      | $280          | 56             | 40     | 5      | namecheap       |
 | lets.catering         | available | $46.99    | —             | 77             | 39     | 4      | name.com        |
 | tickets.catering      | premium   | $38.94    | $38.94        | 64             | 34     | 7      | namesilo        |
-| WiFi.catering         | available | $48.98    | —             | 83             | 37     | 5      | namecheap       |
 | William.catering      | premium   | $92.40    | $92.40        | 74             | 31     | 7      | namecheap       |
 | neuroscience.catering | available | $46.99    | —             | 80             | 37     | 12     | name.com        |
-| photos.catering       | premium   | $82.50    | —             | 54             | 28     | 6      | name.com        |
-| tokens.catering       | available | $38.99    | $38.99        | 51             | 36     | 6      | namesilo        |
-| tips.catering         | premium   | $82.50    | —             | 80             | 26     | 4      | name.com        |
-| Cats.catering         | available | $48.98    | —             | 59             | 33     | 4      | namecheap       |
-| coupons.catering      | premium   | $118.80   | $118.80       | 52             | 24     | 7      | namesilo        |
-| payments.catering     | available | $46.99    | —             | 58             | 33     | 8      | name.com        |
-| apartments.catering   | premium   | $78.54    | $78.54        | 60             | 21     | 10     | namesilo        |
-| teams.catering        | available | $46.99    | —             | 62             | 32     | 5      | name.com        |
-| restaurants.catering  | premium   | $82.50    | —             | 57             | 21     | 11     | name.com        |
-| maps.catering         | available | $46.99    | —             | 56             | 31     | 4      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,679 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,679 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all one-word names on the .catering extension. That makes the set highly specific: the strongest candidates are the ones where the word and the extension read naturally together, feel credible for food service, events, hospitality, or adjacent use, and stay easy to say and remember. Examples such as WiFi.catering, jewels.catering, and ladies.catering show the range from functional terms to broader brand angles. For founders, the key question is whether the pairing feels ownable and clear enough to launch on. For investors, the focus is whether a niche .catering name at a median ask of 48.57 leaves room for selective upside without relying on broad-market liquidity.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize words that fit naturally before .catering
+- Check whether the term is easy to say and spell fast
+- Use price discipline: median ask here is 48.57
+- Avoid words with obvious trademark or brand collision risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
