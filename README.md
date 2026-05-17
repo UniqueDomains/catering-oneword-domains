@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .catering one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,680 domains · **Median ask:** $48.57 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/catering`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | Trex.catering         | available | $48.98    | —             | 80             | 24     | 5      | namecheap       |
 | WiFi.catering         | available | $48.98    | —             | 83             | 37     | 5      | namecheap       |
 | geton.catering        | available | $46.99    | —             | 82             | 10     | 6      | name.com        |
-| popup.catering        | available | $46.99    | —             | 84             | 29     | 6      | name.com        |
+| popup.catering        | available | $46.99    | —             | 84             | 28     | 6      | name.com        |
 | dogsit.catering       | available | $46.99    | —             | 96             | 2      | 6      | name.com        |
 | playin.catering       | available | $46.99    | —             | 80             | 10     | 7      | name.com        |
 | stirup.catering       | available | $46.99    | —             | 82             | 3      | 7      | name.com        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
