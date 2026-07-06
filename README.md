@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .catering one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,680 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,680 domains · **Median ask:** $48.57 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,680 domains · **Median ask:** $46.57 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/catering`  
+**Last updated:** 2026-07-06
+**Canonical page:** `https://unique.domains/domains/tld/catering`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CATERING one-word dom
 
 ### Files
 
-- `catering.csv` — public CSV extract (1,000 rows)
-- `catering.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `catering.csv`, public CSV extract (1,000 rows)
+- `catering.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| Acup.catering         | available | $48.98    | —             | 80             | 5      | 5      | namecheap       |
-| Trex.catering         | available | $48.98    | —             | 80             | 24     | 5      | namecheap       |
-| WiFi.catering         | available | $48.98    | —             | 83             | 37     | 5      | namecheap       |
-| geton.catering        | available | $46.99    | —             | 82             | 10     | 6      | name.com        |
-| popup.catering        | available | $46.99    | —             | 84             | 28     | 6      | name.com        |
-| dogsit.catering       | available | $46.99    | —             | 96             | 2      | 6      | name.com        |
-| playin.catering       | available | $46.99    | —             | 80             | 10     | 7      | name.com        |
-| stirup.catering       | available | $46.99    | —             | 82             | 3      | 7      | name.com        |
-| dogsick.catering      | available | $46.99    | —             | 90             | 1      | 7      | name.com        |
-| getlife.catering      | available | $46.99    | —             | 80             | 5      | 8      | name.com        |
-| messages.catering     | available | $38.99    | $38.99        | 80             | 16     | 8      | namesilo        |
-| skills.catering       | available | $46.99    | —             | 58             | 47     | 6      | name.com        |
-| hotels.catering       | resell    | —         | —             | 64             | 82     | 6      | NameCheap, Inc. |
-| jobs.catering         | premium   | $500      | —             | 79             | 42     | 4      | name.com        |
-| coins.catering        | available | $46.99    | —             | 56             | 41     | 5      | name.com        |
-| Tools.catering        | premium   | $280      | $280          | 56             | 40     | 5      | namecheap       |
-| lets.catering         | available | $46.99    | —             | 77             | 39     | 4      | name.com        |
-| tickets.catering      | premium   | $38.94    | $38.94        | 64             | 34     | 7      | namesilo        |
-| William.catering      | premium   | $92.40    | $92.40        | 74             | 31     | 7      | namecheap       |
-| neuroscience.catering | available | $46.99    | —             | 80             | 37     | 12     | name.com        |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| out.catering       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
+| christmas.catering | premium   | $242      | $242          | high           | low    | 9      | namesilo                                    |
+| clean.catering     | available | $38.99    | $38.99        | high           | low    | 5      | namesilo                                    |
+| off.catering       | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                    |
+| bce.catering       | available | $38.99    | $38.99        | medium         | low    | 3      | namesilo                                    |
+| pizza.catering     | resell    | —         | —             | high           | low    | 5      | GoDaddy Online Services Cayman Islands Ltd. |
+| all.catering       | premium   | $82.50    | $82.50        | high           | medium | 3      | name.com                                    |
+| cap.catering       | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                    |
+| are.catering       | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                    |
+| don.catering       | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                    |
+| bed.catering       | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                    |
+| era.catering       | available | $38.99    | $38.99        | high           | medium | 3      | namesilo                                    |
+| ben.catering       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                    |
+| hic.catering       | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                    |
+| boo.catering       | premium   | $82.50    | —             | high           | low    | 3      | name.com                                    |
+| ill.catering       | available | $38.99    | $38.99        | medium         | low    | 3      | namesilo                                    |
+| car.catering       | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap                                   |
+| lcd.catering       | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                    |
+| cup.catering       | premium   | $82.50    | —             | high           | low    | 3      | name.com                                    |
+| leg.catering       | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .catering extension. That makes the set highly specific: the strongest candidates are the ones where the word and the extension read naturally together, feel credible for food service, events, hospitality, or adjacent use, and stay easy to say and remember. Examples such as WiFi.catering, jewels.catering, and ladies.catering show the range from functional terms to broader brand angles. For founders, the key question is whether the pairing feels ownable and clear enough to launch on. For investors, the focus is whether a niche .catering name at a median ask of 48.57 leaves room for selective upside without relying on broad-market liquidity.
+This selection covers one-word domain names on the .catering extension, built from short, common English words rather than industry-specific catering terms. With 12,680 names and a median ask around $47, the set skews toward low-cost, easy-to-register options. Because most words are generic (out, half, feel, okay, great), brandability depends on how well a chosen word pairs with a catering business rather than on the word itself carrying food or event meaning.
 
-- Prioritize words that fit naturally before .catering
-- Check whether the term is easy to say and spell fast
-- Use price discipline: median ask here is 48.57
-- Avoid words with obvious trademark or brand collision risk
+- 12,680 one-word .catering domains available now
+- Median ask near $47 — low-cost entry across the set
+- Everyday words like feel, okay, and great, ready to register
+- Compare spelling, length, and tone before you commit
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-07-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
