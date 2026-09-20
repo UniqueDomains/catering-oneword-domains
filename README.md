@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .catering one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,555 domains · **Median ask:** $42.20 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/catering`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,8 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| out.catering   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
 | bce.catering   | available | $38.99    | $38.99        | medium         | low    | 3      | namesilo                                    |
-| pizza.catering | resell    | —         | —             | medium         | medium | 5      | GoDaddy Online Services Cayman Islands Ltd. |
+| pizza.catering | resell    | —         | —             | medium         | low    | 5      | GoDaddy Online Services Cayman Islands Ltd. |
 | all.catering   | premium   | $82.50    | $82.50        | high           | medium | 3      | name.com                                    |
 | cap.catering   | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                    |
 | are.catering   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                    |
@@ -84,6 +83,7 @@ print(df.head())
 | cut.catering   | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com                                    |
 | lcd.catering   | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                    |
 | him.catering   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
+| leg.catering   | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
