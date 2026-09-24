@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .catering one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,878 domains · **Median ask:** $41.82 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/catering`
 **Best for:** founders, investors, studios
 
@@ -80,7 +80,7 @@ print(df.head())
 | ill.catering   | available | $38.99    | $38.99        | medium         | low    | 3      | namesilo                                    |
 | cup.catering   | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                                    |
 | ixl.catering   | available | $38.99    | $38.99        | low            | low    | 3      | namesilo                                    |
-| cut.catering   | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com                                    |
+| cut.catering   | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo                                    |
 | lcd.catering   | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                    |
 | him.catering   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                    |
 | leg.catering   | available | $38.99    | $38.99        | high           | low    | 3      | namesilo                                    |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CATERING One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

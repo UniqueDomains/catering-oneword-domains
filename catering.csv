@@ -9,7 +9,7 @@ daebd1c2-f9ca-4e60-876c-cc2b6954fb79,shakespeare.catering,available,38.99,38.99,
 7e157788-0fb3-44bb-b3d3-c709a3c61598,furtive.catering,available,38.99,38.99,low,low,7,namesilo,,,08/08/2026 06:32
 b0d5cedc-4262-4ad3-83e9-12b5d01d2d33,aboveground.catering,available,38.99,38.99,low,low,12,namesilo,,,
 3aea23a8-6c04-43bf-957b-68e87943551d,uptospeed.catering,available,38.99,38.99,medium,low,11,namesilo,,,
-fb9af127-832e-4fd2-bb0e-df59419cdb64,letter.catering,available,38.99,38.99,high,low,6,namesilo,,,
+fb9af127-832e-4fd2-bb0e-df59419cdb64,letter.catering,available,38.99,38.99,medium,low,6,namesilo,,,24/09/2026 02:40
 0c45dcaf-10e8-46df-9157-987813bdb3ff,nicole.catering,premium,78.54,78.54,high,low,6,namesilo,,,
 b87e1018-c09e-40e2-ab3d-04adf0c95a57,may.catering,premium,46.2,46.2,high,low,3,namecheap,,,
 1080e2a4-525e-49e2-9c1c-33d1c5d29129,manualwork.catering,available,38.99,38.99,medium,low,11,namesilo,,,
@@ -48,7 +48,7 @@ a34104ac-5208-4eba-b217-61823d6d2792,anabatic.catering,available,38.99,38.99,low
 9a61647e-3cef-47c9-945e-8b68f6262127,crayola.catering,available,,,high,low,7,,,,
 8d5e3a66-9a67-4f67-8406-131d216c1da0,noquarter.catering,available,38.99,38.99,low,low,10,namesilo,,,
 2d1b10e1-d76b-4bd3-af0c-cc88e5422acf,phrase.catering,available,38.99,38.99,high,low,6,namesilo,,,
-7a420483-7f62-4ee2-9161-dda70f910be9,chicken.catering,available,38.99,38.99,medium,low,7,namesilo,,,
+7a420483-7f62-4ee2-9161-dda70f910be9,chicken.catering,available,46.99,50.99,low,low,7,name.com,,,23/09/2026 14:11
 6d1c03b1-eaec-4a83-a467-37d6257d461f,tornadowarning.catering,available,38.99,38.99,medium,low,15,namesilo,,,
 5430918e-57e6-48bb-9432-de57f603f151,adoptable.catering,available,38.99,38.99,low,low,9,namesilo,,,
 789fb279-24b9-4892-8296-e0ce816191bb,entitled.catering,available,46.99,,medium,low,8,name.com,,,
@@ -68,7 +68,7 @@ cc235168-50d6-4ddd-a853-48dc815d21de,swim.catering,available,38.99,38.99,high,lo
 508e83dd-5731-4898-8059-9124643a1cf5,addicted.catering,available,38.99,38.99,medium,low,8,namesilo,,,21/09/2026 17:07
 0fe3f49d-33bc-4b90-8d11-0c31e562d3cf,complete.catering,premium,85.8,85.8,medium,low,8,namecheap,,,19/09/2026 19:02
 711a9189-3aee-419d-985c-7f9f5af8ea36,howlatthemoon.catering,available,38.99,38.99,high,low,16,namesilo,,,
-82dc0041-885f-4931-8eee-a48b2e1c4927,cosmetic.catering,available,46.99,50.99,high,low,8,name.com,,,
+82dc0041-885f-4931-8eee-a48b2e1c4927,cosmetic.catering,available,40.98,48.98,medium,low,8,namecheap,,,24/09/2026 00:13
 784ba5c0-d7fd-45ff-ad4c-0f3669cddb84,approval.catering,available,38.99,38.99,low,low,8,namesilo,,,08/09/2026 15:18
 f6d2c222-c8de-43cb-a5fc-46468844344e,abundantly.catering,available,38.99,38.99,low,low,10,namesilo,,,
 80544024-60ad-4986-912a-06f1855319a8,there.catering,available,38.99,38.99,high,low,5,namesilo,,,
@@ -106,8 +106,8 @@ f1f17798-9ece-4d96-8d4f-051a176b7dec,ancillary.catering,available,38.99,38.99,lo
 c82a06d1-8b95-4ab4-9cf4-a5acb9b1e42f,familiar.catering,available,38.99,38.99,high,low,8,namesilo,,,
 b2c19812-4d5a-4d00-9a80-f077f3c969f5,dalailama.catering,available,46.99,,high,low,10,name.com,,,
 f1aa2260-28ec-437a-ae32-64e79bf229fe,atacama.catering,available,38.99,38.99,medium,low,7,namesilo,,,
-4acc7c33-df89-4d38-b263-9b37c5ebf01b,thermal.catering,available,38.99,38.99,medium,low,7,namesilo,,,
-9568fa27-a0e7-44f1-a205-2d878b085c49,cut.catering,premium,82.5,82.5,high,low,3,name.com,,,
+4acc7c33-df89-4d38-b263-9b37c5ebf01b,thermal.catering,available,38.99,38.99,low,low,7,namesilo,,,23/09/2026 12:37
+9568fa27-a0e7-44f1-a205-2d878b085c49,cut.catering,premium,78.54,78.54,low,low,3,namesilo,,,24/09/2026 04:08
 62fa65f3-6c8f-4c22-8edd-42f92472948f,quick.catering,available,38.99,38.99,low,low,5,namesilo,,,21/09/2026 23:09
 e83bee3a-9713-4375-98de-163e2651a6a9,tell.catering,available,38.99,38.99,high,low,4,namesilo,,,
 77b0ef80-1c53-48b8-8df4-43f976f0acf8,loose.catering,available,38.99,38.99,low,low,5,namesilo,,,22/09/2026 10:42
@@ -130,7 +130,6 @@ a1e2c8f7-708b-4f6d-9b1e-df20986250c7,cinque.catering,available,38.99,38.99,low,l
 db54b675-610a-4591-b705-eb4db808c231,deputy.catering,available,38.99,38.99,high,low,6,namesilo,,,
 202f8963-8dbb-4f4f-9710-32324cf79057,orbicular.catering,available,38.99,38.99,low,low,9,namesilo,,,08/08/2026 10:11
 15fc9a63-42dc-4385-9dbc-d411b5860a2a,convince.catering,available,38.99,38.99,high,low,8,namesilo,,,
-8b5317b7-7c2e-49fd-be3d-62fd778d704a,guess.catering,available,,,high,low,5,,,,
 f24361e4-da36-47d4-bcf0-60244ddca4ea,elusive.catering,available,38.99,38.99,low,low,7,namesilo,,,08/08/2026 08:07
 3d5afed2-b271-424c-b571-82cea9ea429e,below.catering,available,46.99,50.99,medium,low,5,name.com,,,
 cce58aac-1285-48d7-85d1-70ddd3c52aba,stealaway.catering,available,38.99,38.99,low,low,10,namesilo,,,
@@ -154,7 +153,7 @@ c2014b0a-d327-43d5-8ab0-981218b73ee5,rodshaped.catering,available,38.99,38.99,lo
 f927a1de-a7fb-4516-b8da-4f812039c85b,america.catering,premium,118.8,118.8,high,low,7,namesilo,,,
 669e1a7d-2253-400e-81f7-e2ae537887c8,dive.catering,available,38.99,38.99,high,low,4,namesilo,,,
 717ecab0-33e9-4dba-aa4f-ea3474f6471d,comeright.catering,available,38.99,38.99,high,low,10,namesilo,,,
-3991b3c6-6ded-459c-b60a-f5cb0b27abc7,television.catering,available,40.98,48.98,medium,low,10,namecheap,,,20/09/2026 02:37
+3991b3c6-6ded-459c-b60a-f5cb0b27abc7,television.catering,available,38.99,38.99,medium,low,10,namesilo,,,23/09/2026 06:07
 e411d885-3b3d-48bf-acb4-417829c801b4,algal.catering,available,38.99,38.99,low,low,5,namesilo,,,
 3b5eadc5-dd6a-42a4-8535-185d5e7fd473,born.catering,available,38.99,38.99,medium,low,4,namesilo,,,23/09/2026 00:37
 82c14fba-216a-434b-82da-dbd870b5d783,pressrelease.catering,available,46.99,,medium,low,13,name.com,,,
@@ -171,7 +170,7 @@ de704e5c-a497-4a9c-8c10-718a4f5e0de0,affected.catering,available,38.99,38.99,low
 ba2397e1-9fa1-47a4-8d30-ecf3d1723e03,mentioned.catering,available,38.99,38.99,medium,low,9,namesilo,,,
 ed44b206-2895-45f7-8b89-4a293528c8a5,ninth.catering,available,38.99,38.99,low,low,5,namesilo,,,
 19b4769b-274c-4412-8701-4793204b7915,soundbar.catering,available,38.99,38.99,high,low,8,namesilo,,,
-316ed9db-2b4b-4b39-983f-73ef85bd616e,exchange.catering,premium,78.54,78.54,high,low,8,namesilo,,,
+316ed9db-2b4b-4b39-983f-73ef85bd616e,exchange.catering,premium,78.54,78.54,medium,low,8,namesilo,,,23/09/2026 13:38
 6a078d2d-8350-419e-ba7c-75faa45eb941,allied.catering,available,38.99,38.99,medium,low,6,namesilo,,,22/09/2026 01:28
 1cc2e205-4e60-48f8-81ed-3b605d71dd60,bulb.catering,available,38.99,38.99,high,low,4,namesilo,,,
 2039250c-dfed-44c5-9654-8630882c6e44,contact.catering,premium,242,242,high,medium,7,namesilo,,,
@@ -214,7 +213,7 @@ c4b4af00-ca20-4d67-b359-416e7ed62f8e,gogreen.catering,available,38.99,38.99,medi
 37ad8b47-523d-47f6-8a31-08d61440dab6,thinktwice.catering,available,38.99,38.99,medium,low,11,namesilo,,,
 8e634d8e-e36f-41a7-81d1-de772f5bc1f7,melt.catering,available,38.99,38.99,high,low,4,namesilo,,,
 1f699599-5038-486b-bb34-b9e66b7c1eb0,temple.catering,available,,,medium,low,6,,,,
-9b2952a9-c7d1-43bc-82ed-5afe6891c8f0,envious.catering,available,46.99,50.99,medium,low,7,name.com,,,
+9b2952a9-c7d1-43bc-82ed-5afe6891c8f0,envious.catering,available,38.99,38.99,low,low,7,namesilo,,,24/09/2026 01:02
 8cb0afb6-045d-4a0e-9a5c-870fc7c85aa4,sacred.catering,available,38.99,38.99,medium,low,6,namesilo,,,
 d502f721-8d11-47fc-afee-077297e95e4a,disparity.catering,available,38.99,38.99,medium,low,9,namesilo,,,
 f0914fa5-b196-4dac-b841-1e8fe5600ea9,neworleans.catering,premium,118.8,118.8,medium,low,11,namesilo,,,
@@ -233,7 +232,7 @@ cc665059-1314-4ba1-b139-e527d4359a4a,ecommerce.catering,available,38.99,38.99,hi
 ddad9403-0aa7-49a3-8eb7-f48562ce4071,aphasic.catering,available,38.99,38.99,low,low,7,namesilo,,,05/08/2026 23:07
 9320a8e2-63f9-4d6f-8daa-6cd38b61456a,humanity.catering,available,38.99,38.99,high,low,8,namesilo,,,
 d758cf2e-fd06-43a5-8adb-5d3c21a175a5,toothenamel.catering,available,38.99,38.99,low,low,12,namesilo,,,
-471832db-3064-4df7-9be0-c4c0a9b2cf96,required.catering,available,46.99,50.99,medium,low,8,name.com,,,
+471832db-3064-4df7-9be0-c4c0a9b2cf96,required.catering,available,40.98,48.98,low,low,8,namecheap,,,23/09/2026 18:27
 9316a748-19b5-4159-9d09-63ba6f2abbb5,enhance.catering,available,38.99,38.99,high,low,7,namesilo,,,
 103d979f-728d-48f2-bc15-f2b95a6b62a5,dave.catering,available,38.99,38.99,high,low,4,namesilo,,,
 7b494b15-7de9-46b7-84d8-f7c4d4390e78,atheistic.catering,available,38.99,38.99,low,low,9,namesilo,,,07/08/2026 13:03
@@ -308,7 +307,7 @@ f4d4daf4-15d1-4342-b42d-a447a3cf13e6,believeyoume.catering,available,38.99,38.99
 50964284-f931-4d73-be34-c4a5a70eab97,labor.catering,available,46.99,,medium,low,5,name.com,,,
 41703078-4258-4b8b-a030-cfb2b6f3c8ef,troublemaker.catering,available,38.99,38.99,medium,low,13,namesilo,,,
 a495b833-90fb-42af-a3b9-ffd8841cd300,links.catering,available,46.99,,high,low,5,name.com,,,
-229f7796-5d3a-4b03-af84-8d8ac227d9b8,chill.catering,available,46.99,50.99,high,low,5,name.com,,,
+229f7796-5d3a-4b03-af84-8d8ac227d9b8,chill.catering,available,38.99,38.99,low,low,5,namesilo,,,23/09/2026 23:04
 8a75cf9b-2e23-4497-9e5d-711836cfe89f,energizing.catering,available,38.99,38.99,medium,low,10,namesilo,,,
 128160d5-b150-4135-9194-13a8c696c926,ben.catering,premium,78.54,78.54,high,medium,3,namesilo,,,
 7130c45b-4967-44aa-be46-8e5bee90ae34,moral.catering,available,38.99,38.99,medium,low,5,namesilo,,,
@@ -324,9 +323,9 @@ e2a747b6-10c9-40f2-8501-1604140e5ee6,abstruse.catering,available,38.99,38.99,low
 85e2fa26-812d-47da-9256-31e8464847cc,acidulous.catering,available,38.99,38.99,low,low,9,namesilo,,,
 f6e943a2-33b0-46b5-9b14-38297b915788,affirmative.catering,available,38.99,38.99,high,low,11,namesilo,,,
 a8f5a6ac-b7b4-44d6-9d79-947cd6567b40,cometomind.catering,available,46.99,,high,low,12,name.com,,,
-d069ef62-fe8e-4d63-8f8a-41b9b3cf0dbc,out.catering,premium,85.8,85.8,medium,low,3,namecheap,,,19/09/2026 10:34
+d069ef62-fe8e-4d63-8f8a-41b9b3cf0dbc,out.catering,premium,85.8,85.8,medium,low,3,namecheap,,,23/09/2026 05:30
 f350b261-7c3d-4fa5-a271-bc4c5d3b5789,appreciate.catering,available,38.99,38.99,high,low,10,namesilo,,,
-4416263f-95c3-47f0-b519-05bd8027a5e6,comforted.catering,available,38.99,38.99,high,low,9,namesilo,,,
+4416263f-95c3-47f0-b519-05bd8027a5e6,comforted.catering,available,38.99,38.99,medium,low,9,namesilo,,,23/09/2026 15:14
 a23d9bd7-e5dd-4bf0-a591-a916089e973f,xlvii.catering,available,38.99,38.99,low,low,5,namesilo,,,
 cbd15259-e3ca-45bc-bf27-5a991ec8035d,stfrancis.catering,available,38.99,38.99,medium,low,11,namesilo,,,
 8a9f15b9-761f-47b8-9f3a-ef2979d72a5f,drivehome.catering,available,38.99,38.99,high,low,10,namesilo,,,
@@ -340,7 +339,7 @@ b4e0bdcb-d53c-4179-8f04-61d660fafd1d,knockknock.catering,available,46.99,,high,l
 68be4ac1-88b1-40ec-857f-8289816336d4,mecca.catering,available,46.99,,high,low,5,name.com,,,
 242d5fbf-3c61-4be4-969b-8f859bda1944,avirulent.catering,available,38.99,38.99,low,low,9,namesilo,,,07/08/2026 23:41
 ddeff932-1ad4-473e-ac4a-ad0b463d5682,niece.catering,available,38.99,38.99,medium,low,5,namesilo,,,
-ca3864d2-7516-4950-9bdc-0ccafff7b6dd,pizza.catering,resell,,,medium,low,5,GoDaddy Online Services Cayman Islands Ltd.,18/11/2016 04:35,18/11/2033 04:35,19/09/2026 05:58
+ca3864d2-7516-4950-9bdc-0ccafff7b6dd,pizza.catering,resell,,,medium,low,5,GoDaddy Online Services Cayman Islands Ltd.,18/11/2016 04:35,18/11/2033 04:35,23/09/2026 06:45
 d08be927-3bba-439f-8b73-d19b29ae0ac2,vice.catering,available,38.99,38.99,medium,low,4,namesilo,,,
 a46ab609-709c-4b4a-96b6-6f86b71d1c8b,pissed.catering,available,38.99,38.99,low,low,6,namesilo,,,
 d58be8cd-18d0-42fe-8a6c-e8a365fa147c,plunkfor.catering,available,38.99,38.99,low,low,9,namesilo,,,08/08/2026 05:28
@@ -361,7 +360,7 @@ e24466ad-89a7-4134-8590-0d75cc727a46,usdollar.catering,available,46.99,,high,low
 f99083b4-14e2-4f6b-ac96-d2775bed7d47,matisse.catering,available,38.99,38.99,high,low,7,namesilo,,,
 ad6db1a1-b162-4d02-b244-b60ab399f1da,ache.catering,available,38.99,38.99,low,low,4,namesilo,,,
 70e6a2c4-9812-4d85-8da4-6bf465982588,makeright.catering,available,38.99,38.99,high,low,10,namesilo,,,
-8d7b5c3a-b352-4834-968b-aafc4a3409ea,clumsy.catering,available,38.99,38.99,high,low,6,namesilo,,,
+8d7b5c3a-b352-4834-968b-aafc4a3409ea,clumsy.catering,available,40.98,48.98,low,low,6,namecheap,,,23/09/2026 11:20
 058b53e2-9cc8-4d92-a45f-71c2ac69f84b,carsick.catering,available,40.98,48.98,low,low,7,namecheap,,,
 8e28c15c-b5c4-4f6e-a30c-ce3098d169c4,excusatory.catering,available,38.99,38.99,low,low,10,namesilo,,,06/08/2026 02:16
 b55c2e6a-509f-4a66-be07-1ea5f7c623a4,south.catering,premium,78.54,78.54,medium,low,5,namesilo,,,
@@ -369,7 +368,7 @@ ab989d40-707f-47a5-8593-2cb7365ddd43,captivated.catering,available,38.99,38.99,l
 f58fb225-119e-44d1-8f26-cc6a88070b4a,vector.catering,available,38.99,38.99,high,low,6,namesilo,,,
 5df2f699-8937-4a6c-99fd-d7d15bb5040d,jehovah.catering,available,38.99,38.99,low,low,7,namesilo,,,
 5b47763d-771d-4deb-be04-e1e3fbd8d03c,bath.catering,premium,38.94,38.94,high,low,4,namesilo,,,
-6c3ca69a-26d6-40c2-be88-7551adedabbc,desired.catering,available,46.99,50.99,high,low,7,name.com,,,
+6c3ca69a-26d6-40c2-be88-7551adedabbc,desired.catering,available,38.99,38.99,medium,low,7,namesilo,,,24/09/2026 00:57
 0708dab7-cc87-4ed5-9cdf-c964b0543285,stockmarket.catering,available,38.99,38.99,high,low,12,namesilo,,,
 5b04815d-2c11-431a-a759-7a120ab9eb84,visibility.catering,available,38.99,38.99,high,low,10,namesilo,,,
 5f6f8607-7491-4e3c-9332-877ae10ccbfc,passinggrade.catering,available,46.99,,medium,low,13,name.com,,,
@@ -409,7 +408,7 @@ c397aee5-db6e-433f-8d8a-a012ad42854c,fleet.catering,available,,,medium,low,5,,,,
 c96742b7-1ccf-443f-9590-8c8f03238984,ill.catering,available,38.99,38.99,medium,low,3,namesilo,,,
 9d5ff589-4b2e-46b1-8aa1-87ffb5e05739,seeing.catering,available,38.99,38.99,high,low,6,namesilo,,,
 c85583ad-1bfd-45e6-a191-36243515e9e1,goup.catering,available,38.99,38.99,medium,low,5,namesilo,,,03/09/2026 14:22
-57df9b5c-a8e3-4c09-8477-6252c5c32843,processed.catering,available,38.99,38.99,medium,low,9,namesilo,,,19/09/2026 13:08
+57df9b5c-a8e3-4c09-8477-6252c5c32843,processed.catering,available,38.99,38.99,medium,low,9,namesilo,,,23/09/2026 15:59
 a09341de-49a4-4ad3-8f2f-62fe3d090433,howdoyedo.catering,available,38.99,38.99,medium,low,12,namesilo,,,
 dcdd4b90-2a64-455f-9ad3-03ded8313979,transmit.catering,available,46.99,,medium,low,8,name.com,,,
 45268ba5-ec77-45a6-9e8c-c5dbc04b6629,onsale.catering,available,38.99,38.99,low,low,7,namesilo,,,
@@ -461,7 +460,7 @@ a5769a1d-58aa-4d3e-acc0-9e126d17f673,aperient.catering,available,38.99,38.99,low
 25e0af8e-0116-47dc-9715-ddc369cac93d,jeep.catering,available,,,medium,low,4,,,,
 3cd700ac-6aba-4d28-8011-f86dc2f4be1c,supervisor.catering,available,38.99,38.99,medium,low,10,namesilo,,,
 20849de2-28b0-4736-8d90-92ade89efc8f,accented.catering,available,38.99,38.99,low,low,8,namesilo,,,
-1ded71e8-81ec-4786-b7aa-f18b80b55418,reverse.catering,available,46.99,50.99,high,low,7,name.com,,,
+1ded71e8-81ec-4786-b7aa-f18b80b55418,reverse.catering,available,38.99,38.99,medium,low,7,namesilo,,,23/09/2026 22:34
 f0dc3b84-90fe-410e-aa97-e06f0f3ae594,our.catering,premium,118.8,118.8,medium,medium,3,namesilo,,,
 9c58e37f-4ab4-404d-ab24-a7c178a17c4b,rotated.catering,available,46.99,,medium,low,7,name.com,,,
 ad451a74-10c2-482d-a9d7-67b1d10f3e3d,addable.catering,available,38.99,38.99,low,low,7,namesilo,,,
@@ -496,7 +495,7 @@ cd24e31e-098c-42a1-a526-d94db4e06d54,discspace.catering,available,38.99,38.99,hi
 de18b401-754f-49d6-9998-756f490aa026,arable.catering,available,38.99,38.99,low,low,6,namesilo,,,06/08/2026 11:14
 072ded54-2fc1-4e90-97b1-515343522f5f,bottom.catering,available,38.99,38.99,low,low,6,namesilo,,,09/08/2026 11:50
 f108d3da-20b9-492a-b960-0f44fea75151,middleages.catering,available,38.99,38.99,medium,low,11,namesilo,,,
-b291a9df-a6d7-4208-b8bf-0d196b4bfde0,unshakable.catering,available,38.99,38.99,high,low,10,namesilo,,,
+b291a9df-a6d7-4208-b8bf-0d196b4bfde0,unshakable.catering,available,38.99,38.99,medium,low,10,namesilo,,,23/09/2026 10:41
 6a0d8e3e-95cd-4ab8-b065-2bbbc1a6d44d,bellied.catering,available,38.99,38.99,low,low,7,namesilo,,,09/08/2026 13:25
 7f003c70-ede2-4444-9cae-7f43a7488a68,attempted.catering,available,38.99,38.99,low,low,9,namesilo,,,07/08/2026 15:12
 0a1cd96d-79df-44ba-b1cd-c6c8d407ac45,tbd.catering,available,46.99,,high,low,3,name.com,,,
@@ -507,11 +506,11 @@ b291a9df-a6d7-4208-b8bf-0d196b4bfde0,unshakable.catering,available,38.99,38.99,h
 f4cef6de-a531-456a-a804-3ccd78d2a615,plentiful.catering,available,38.99,38.99,high,low,9,namesilo,,,
 b35f9e52-e015-4658-91ce-62a33f9d8038,visitor.catering,available,38.99,38.99,high,low,7,namesilo,,,
 3f1864c4-bd64-4b15-9aea-546ce7a84a1a,humourous.catering,available,38.99,38.99,high,low,9,namesilo,,,
-89dab4f6-5175-4d07-83cb-981217378663,comical.catering,available,38.99,38.99,high,low,7,namesilo,,,
+89dab4f6-5175-4d07-83cb-981217378663,comical.catering,available,38.99,38.99,medium,low,7,namesilo,,,23/09/2026 15:19
 10a587ea-c5e0-4389-9207-93a6b0867e7e,sick.catering,available,40.98,48.98,low,low,4,namecheap,,,23/09/2026 02:10
 0f1ab55d-3560-4fa6-b4b2-3ea32108beb8,cooking.catering,premium,242,242,medium,low,7,namesilo,,,08/09/2026 08:19
 4f75f69c-c1ee-4542-ad5a-5abfb50efb44,climate.catering,available,38.99,38.99,high,low,7,namesilo,,,
-576c9ed0-d8bf-4692-b015-7c4cc3ba65a2,treatment.catering,available,38.99,38.99,high,low,9,namesilo,,,
+576c9ed0-d8bf-4692-b015-7c4cc3ba65a2,treatment.catering,available,38.99,38.99,medium,low,9,namesilo,,,23/09/2026 08:47
 e99e4db9-3aac-4bab-b8c5-434349cddfb3,marooned.catering,available,38.99,38.99,medium,low,8,namesilo,,,
 b07d12d5-6b75-4484-86e9-c43b5c72b622,westcountry.catering,available,38.99,38.99,low,low,12,namesilo,,,
 5703fb46-80a5-417f-ac57-ba32b48dc7d8,reader.catering,available,38.99,38.99,high,low,6,namesilo,,,
@@ -568,10 +567,10 @@ bc008d1f-a1f9-4406-b0bd-ed7661868237,zen.catering,premium,78.54,78.54,high,mediu
 08c8a047-200e-423e-88fe-aeb8d7cdfe82,financialmarket.catering,available,38.99,38.99,high,low,16,namesilo,,,
 bc7bee8e-c115-4387-8c3a-d99ff00ceaca,lately.catering,available,46.99,,medium,low,6,name.com,,,
 54f67075-02dc-4788-8a4f-94a86a4c40d6,sail.catering,available,46.99,,high,low,4,name.com,,,
-1664779d-0fd9-45b6-9146-d625642a0f34,individual.catering,available,38.99,38.99,high,low,10,namesilo,,,
+1664779d-0fd9-45b6-9146-d625642a0f34,individual.catering,available,38.99,38.99,medium,low,10,namesilo,,,23/09/2026 13:06
 3682e194-636c-4a7c-9758-679f561da2c0,ebay.catering,available,,,high,low,4,,,,
 a0ad8559-4d75-4d07-af7d-b0a776811acd,finally.catering,available,38.99,38.99,high,low,7,namesilo,,,
-304b1b58-f0b9-41c3-9d4d-77800c4e1c12,clean.catering,available,38.99,38.99,medium,low,5,namesilo,,,19/09/2026 12:48
+304b1b58-f0b9-41c3-9d4d-77800c4e1c12,clean.catering,available,38.99,38.99,medium,low,5,namesilo,,,23/09/2026 15:39
 8b02370e-7787-4818-8a64-c7fe034c1e8f,insolvent.catering,available,38.99,38.99,low,low,9,namesilo,,,08/08/2026 13:34
 917e6549-29c7-4c93-8f96-ab320dfeaa45,cyan.catering,available,38.99,38.99,medium,low,4,namesilo,,,22/09/2026 22:59
 011ba0db-9dc0-4a32-81ee-b814ea0a82cb,modesty.catering,available,46.99,,high,low,7,name.com,,,
@@ -582,7 +581,7 @@ a0ad8559-4d75-4d07-af7d-b0a776811acd,finally.catering,available,38.99,38.99,high
 9a2fadc8-af91-41c3-9d2c-d1be94edbe94,attract.catering,available,38.99,38.99,high,low,7,namesilo,,,
 885eea6b-f9fe-48d2-a2d7-b6f6c5085db8,helminthic.catering,available,38.99,38.99,low,low,10,namesilo,,,
 a3348c2d-b33d-4537-a658-68ccc7339652,indrawing.catering,available,38.99,38.99,low,low,10,namesilo,,,
-57a198b0-57c9-49bf-bd28-bf54a313d091,formal.catering,premium,42.9,42.9,high,low,6,namecheap,,,
+57a198b0-57c9-49bf-bd28-bf54a313d091,formal.catering,premium,38.94,38.94,medium,low,6,namesilo,,,24/09/2026 00:47
 89dfb182-fc57-4588-8f38-442ac1bedfdd,otherthan.catering,available,46.99,,medium,low,10,name.com,,,
 82205f62-cc7e-483e-8d9c-de9cf13b2fe1,jetfuel.catering,available,38.99,38.99,high,low,8,namesilo,,,
 e6e23620-9ceb-4f6b-8e23-0f022018da6a,medals.catering,available,38.99,38.99,medium,low,6,namesilo,,,
@@ -626,7 +625,7 @@ f570fa04-b728-4fb8-884f-ec0bf11670bf,harleydavidson.catering,available,38.99,38.
 58f8e22a-783a-440f-9bd8-f357d3645d78,section.catering,available,38.99,38.99,medium,low,7,namesilo,,,08/09/2026 06:07
 e25994fc-2610-4f0a-b672-807272ae51a2,lawless.catering,available,38.99,38.99,low,low,7,namesilo,,,
 b7b71c91-a3d0-4f9e-9b1e-c532aa88709d,squint.catering,available,38.99,38.99,low,low,6,namesilo,,,07/08/2026 03:15
-916ebcb7-9d35-452e-ba3b-4b5f8b297bb4,retail.catering,available,38.99,38.99,high,low,6,namesilo,,,
+916ebcb7-9d35-452e-ba3b-4b5f8b297bb4,retail.catering,available,38.99,38.99,medium,low,6,namesilo,,,24/09/2026 02:35
 2462fd97-513f-4846-9df1-f4147af151c2,marines.catering,available,46.99,,high,low,7,name.com,,,
 4020d657-261c-4deb-a0f5-0d8f482ea36b,anarchic.catering,available,38.99,38.99,low,low,8,namesilo,,,
 240e517f-9152-4ddb-9dd7-4be946f1fe79,leading.catering,available,38.99,38.99,medium,low,7,namesilo,,,21/09/2026 23:23
@@ -646,7 +645,7 @@ d6f0018c-be9f-4336-a46b-ec0247c48405,all.catering,premium,78.54,78.54,medium,low
 a1de462e-a123-45f9-8850-273e54405bed,headtohead.catering,available,46.99,,medium,low,12,name.com,,,
 f926691d-1fc4-4f85-b4df-0c82193b0fbe,characteristic.catering,available,46.99,,high,low,14,name.com,,,
 2fd7017a-1d88-4618-9221-1bf23120f5c5,derive.catering,available,38.99,38.99,high,low,6,namesilo,,,
-bbd8149c-b758-4e8f-a7ee-ac1e3fa54d82,computer.catering,premium,118.8,118.8,medium,low,8,namesilo,,,19/09/2026 07:18
+bbd8149c-b758-4e8f-a7ee-ac1e3fa54d82,computer.catering,premium,118.8,118.8,medium,low,8,namesilo,,,23/09/2026 09:10
 2ed68cf2-cec8-4a29-a89d-e810d763ff8b,summertire.catering,available,46.99,,high,low,11,name.com,,,
 fd28cb05-e2d0-4550-a1a9-7144a451294f,beautiful.catering,available,38.99,38.99,medium,low,9,namesilo,,,08/09/2026 03:43
 3ef0e190-6637-4573-ad1b-a53a86bd1cee,aphakic.catering,available,38.99,38.99,low,low,7,namesilo,,,05/08/2026 22:56
@@ -664,7 +663,7 @@ ab5f04e9-3f8f-4fb2-8370-58430d4f939c,lost.catering,available,38.99,38.99,low,low
 03e35695-0faf-4934-8b91-0cf9b0579450,taken.catering,available,38.99,38.99,high,low,5,namesilo,,,
 831dc6bf-8a96-4865-857b-56e961ee6e7d,headtotoe.catering,available,46.99,,medium,low,11,name.com,,,
 0f4c1538-5777-413f-8dab-03a2e48a6ac6,sixtynine.catering,available,38.99,38.99,low,low,10,namesilo,,,
-81df5ed8-b081-42af-9c07-5b00b8d4f86a,lover.catering,available,38.99,38.99,high,low,5,namesilo,,,
+81df5ed8-b081-42af-9c07-5b00b8d4f86a,lover.catering,available,40.98,48.98,medium,low,5,namecheap,,,23/09/2026 10:15
 1893d8ca-322b-443c-b0fa-95286832dfd6,compensate.catering,available,46.99,,high,low,10,name.com,,,
 9a0a1ea5-8a92-4703-967e-ded312f6c925,uml.catering,available,38.99,38.99,high,low,3,namesilo,,,
 ec2ebc5d-729d-4040-96fa-dd87cc250886,widely.catering,available,38.99,38.99,medium,low,6,namesilo,,,
@@ -711,7 +710,7 @@ b4bd09ca-78d3-4527-8197-30a0f657f29e,ruboff.catering,available,38.99,38.99,low,l
 2b4cad84-7083-4b2f-85f3-eced67c8cfe5,document.catering,available,38.99,38.99,high,low,8,namesilo,,,
 0b4a2bd4-d3a7-41d0-9a99-fb5ca6826e4d,basilary.catering,available,38.99,38.99,low,low,8,namesilo,,,08/08/2026 22:22
 996d7ce8-a254-419c-9459-acb8d150aec6,blind.catering,available,38.99,38.99,low,low,5,namesilo,,,22/09/2026 21:56
-f97e1dc8-a38f-4199-bbad-b217d3e10624,arts.catering,available,38.99,38.99,medium,low,4,namesilo,,,19/09/2026 04:18
+f97e1dc8-a38f-4199-bbad-b217d3e10624,arts.catering,available,38.99,38.99,medium,low,4,namesilo,,,23/09/2026 06:35
 3d8c603d-8a18-43ca-a309-4a17d975b7fd,car.catering,premium,128.7,128.7,high,medium,3,namecheap,,,
 8073716f-6c10-436f-a6eb-be9ecc7a4013,arborous.catering,available,38.99,38.99,low,low,8,namesilo,,,06/08/2026 13:29
 fc3774a7-e7ee-4756-bee7-12bfe6020a5e,midjanuary.catering,available,46.99,,high,low,11,name.com,,,
@@ -724,7 +723,7 @@ fc3774a7-e7ee-4756-bee7-12bfe6020a5e,midjanuary.catering,available,46.99,,high,l
 b408b84c-fcb3-4647-82fb-70d41addeb08,astringent.catering,available,38.99,38.99,low,low,10,namesilo,,,
 95a25639-a83a-44ac-9e26-1317c14f2dbe,term.catering,available,38.99,38.99,high,low,4,namesilo,,,
 e40ff822-b24c-45d3-ad77-b80589af2310,shakehands.catering,available,38.99,38.99,medium,low,11,namesilo,,,
-623620ac-2655-46c5-8a9e-75340b2ae139,cinema.catering,available,38.99,38.99,medium,low,6,namesilo,,,19/09/2026 09:58
+623620ac-2655-46c5-8a9e-75340b2ae139,cinema.catering,available,40.98,48.98,medium,low,6,namecheap,,,23/09/2026 07:48
 ca0ca4be-1db5-4f14-959f-ce0210aa59fd,science.catering,premium,78.54,78.54,medium,low,7,namesilo,,,23/09/2026 02:40
 27f0a840-431e-4a3d-ac09-096fe8fe18c5,audio.catering,available,38.99,38.99,high,low,5,namesilo,,,
 b6de2c0c-e7a2-40d5-a588-3182d3503736,arse.catering,available,38.99,38.99,low,low,4,namesilo,,,09/08/2026 10:35
@@ -744,9 +743,9 @@ a51a7296-fd39-49f6-ab38-f961f0e6316b,infant.catering,available,38.99,38.99,high,
 ca73636d-39e5-4c20-bf57-b4bf531e7c65,leg.catering,available,38.99,38.99,high,low,3,namesilo,,,
 c5c9e39c-6904-4e99-8784-9ef26cbe7653,omit.catering,available,38.99,38.99,high,low,4,namesilo,,,
 7bd4c358-2bb4-4938-85d3-800739748f0c,baconexplosion.catering,available,38.99,38.99,high,low,15,namesilo,,,
-4e5b0cea-5e5f-40cf-b504-c3cc2ac96ca5,considered.catering,available,46.99,50.99,high,low,10,name.com,,,
+4e5b0cea-5e5f-40cf-b504-c3cc2ac96ca5,considered.catering,available,40.98,48.98,medium,low,10,namecheap,,,23/09/2026 20:51
 31f0407c-ecfe-4b91-8934-429e9cf67b85,pronounce.catering,available,38.99,38.99,high,low,9,namesilo,,,
-2e0c3d3e-7641-428c-9f21-87bc57bdd3ce,statement.catering,available,38.99,38.99,high,low,9,namesilo,,,
+2e0c3d3e-7641-428c-9f21-87bc57bdd3ce,statement.catering,available,38.99,38.99,low,low,9,namesilo,,,23/09/2026 08:02
 fcfc9d54-0859-4892-b44a-f0b37d9f061b,whitestuff.catering,available,,,low,low,11,,,,
 583910d2-6177-43d5-8514-caf80d963d1c,makelove.catering,available,38.99,38.99,high,low,9,namesilo,,,
 a1bed308-72c8-4438-b898-13ec2ec3669a,byhand.catering,available,38.99,38.99,medium,low,7,namesilo,,,
@@ -754,12 +753,12 @@ a1bed308-72c8-4438-b898-13ec2ec3669a,byhand.catering,available,38.99,38.99,mediu
 4573d038-7491-49b6-9684-2618aca610e5,grouchy.catering,available,38.99,38.99,low,low,7,namesilo,,,08/08/2026 07:52
 02889ff9-dcf2-48f8-8b72-2b4525a4bdd3,amphoric.catering,available,38.99,38.99,low,low,8,namesilo,,,
 292a4286-0302-4cc1-9c20-33f22b8eaaae,hic.catering,available,38.99,38.99,high,low,3,namesilo,,,
-83f17224-5712-4b2d-9b4f-4b84014c6f6b,pity.catering,available,46.99,50.99,high,low,4,name.com,,,
+83f17224-5712-4b2d-9b4f-4b84014c6f6b,pity.catering,available,38.99,38.99,medium,low,4,namesilo,,,23/09/2026 16:56
 bbde7494-9038-4170-8dec-c02c354a32da,asofright.catering,available,38.99,38.99,medium,low,11,namesilo,,,
 f72cb1fa-cf2d-438c-9530-096808411d6d,acquired.catering,available,38.99,38.99,low,low,8,namesilo,,,
 1515019d-98da-486f-87c7-57e55ba586bf,hans.catering,available,38.99,38.99,high,low,4,namesilo,,,
 0bd81231-b490-4e1f-9975-642f66e2d74d,ascent.catering,available,38.99,38.99,low,low,6,namesilo,,,22/09/2026 09:19
-64566569-5089-419c-8278-742dee788a53,realised.catering,available,46.99,50.99,high,low,8,name.com,,,
+64566569-5089-419c-8278-742dee788a53,realised.catering,available,40.98,48.98,medium,low,8,namecheap,,,23/09/2026 17:33
 792cbc45-67a2-48fc-9057-26c76815a196,disgrace.catering,available,38.99,38.99,high,low,8,namesilo,,,
 6bc442bb-51b9-4f05-bfc3-67f953b22cc0,speculation.catering,available,46.99,,low,low,11,name.com,,,
 06bb339c-c031-4458-a80a-52b94a6f3062,invisible.catering,available,38.99,38.99,high,low,9,namesilo,,,
@@ -785,7 +784,7 @@ cc970f4d-f032-4b31-b7b7-bd9661e51406,pleased.catering,available,38.99,38.99,high
 1bcacb60-e1e9-4f0c-b545-ea8cc75fa541,asyndetic.catering,available,38.99,38.99,low,low,9,namesilo,,,07/08/2026 10:34
 95994f7d-cf86-49cf-8754-1168523a0cc4,delayed.catering,available,46.99,50.99,medium,low,7,name.com,,,
 170846f3-ebc4-4ace-8ca7-88af63fea55a,avocado.catering,available,38.99,38.99,medium,low,7,namesilo,,,22/09/2026 14:34
-42ebc3a0-f71b-4166-acfd-a59c2a7d0d92,bust.catering,available,38.99,38.99,high,low,4,namesilo,,,
+42ebc3a0-f71b-4166-acfd-a59c2a7d0d92,bust.catering,available,38.99,38.99,low,low,4,namesilo,,,23/09/2026 09:51
 0575fc28-75b3-44d0-9d1f-602f6b9cbcdc,grayheaded.catering,available,38.99,38.99,medium,low,11,namesilo,,,
 75a3084a-5517-456a-a21c-92c55fa45c8d,setaside.catering,available,38.99,38.99,low,low,9,namesilo,,,06/08/2026 09:13
 ac232c01-9bcf-4be5-be91-eb024c2d807f,toiletroll.catering,available,46.99,,medium,low,11,name.com,,,
@@ -797,7 +796,7 @@ b416393d-f354-4345-9c74-65acc101385d,detest.catering,available,38.99,38.99,mediu
 3dbc096a-a8a9-4f8f-9f43-be7bce2f7b0f,durable.catering,available,46.99,50.99,high,low,7,name.com,,,
 5c059dea-3dd8-4274-80b9-4ab6c09eb832,lovesome.catering,available,38.99,38.99,low,low,8,namesilo,,,
 f49b26ba-e0ad-47f6-8e76-f46ba3bc8121,dollarstore.catering,available,38.99,38.99,medium,low,12,namesilo,,,
-68df80dc-acbe-451a-bcb9-da882f0f585e,bullish.catering,available,38.99,38.99,high,low,7,namesilo,,,
+68df80dc-acbe-451a-bcb9-da882f0f585e,bullish.catering,available,38.99,38.99,medium,low,7,namesilo,,,23/09/2026 10:43
 57448639-7bdd-4928-95ff-47c478f4e835,anxiolytic.catering,available,38.99,38.99,low,low,10,namesilo,,,05/08/2026 21:38
 48d89ab8-b801-4499-99c0-b72d7b6af233,arbitral.catering,available,38.99,38.99,low,low,8,namesilo,,,06/08/2026 12:48
 b46e754e-d5b3-458a-b137-d36123354257,verywell.catering,available,38.99,38.99,low,low,9,namesilo,,,22/09/2026 01:12
@@ -807,7 +806,7 @@ b46e754e-d5b3-458a-b137-d36123354257,verywell.catering,available,38.99,38.99,low
 13ef0a96-e58e-40ec-8ecc-9a24f084a04e,lamp.catering,available,38.99,38.99,medium,low,4,namesilo,,,
 b496e722-8e57-4c70-ade2-9b6ab1ad39f4,aboveboard.catering,available,38.99,38.99,low,low,10,namesilo,,,
 ca450ee8-433d-4a32-88bd-b8dcb1193f20,detection.catering,available,38.99,38.99,medium,low,9,namesilo,,,
-9f7aaa09-b4ac-4583-85bd-a018c553109a,compound.catering,available,46.99,50.99,high,low,8,name.com,,,
+9f7aaa09-b4ac-4583-85bd-a018c553109a,compound.catering,available,40.98,48.98,medium,low,8,namecheap,,,23/09/2026 17:56
 c64bf97f-0dcd-4b13-ba80-1386bcdc3579,sent.catering,available,38.99,38.99,medium,low,4,namesilo,,,19/09/2026 16:10
 7aaee46b-106b-44d3-9e01-be93d73bd09a,brushing.catering,available,38.99,38.99,high,low,8,namesilo,,,
 f80d15ea-1f16-40a1-868a-d8f6d6fb39f5,christmas.catering,premium,242,242,high,low,9,namesilo,,,
@@ -816,9 +815,9 @@ ed2aabc6-a789-440e-9f3a-39184ab9b526,transitions.catering,available,38.99,38.99,
 3f22748c-45ca-4d2a-a89c-92e68ba0f56f,misbegot.catering,available,38.99,38.99,low,low,8,namesilo,,,08/08/2026 23:59
 cd8927f8-400d-40c2-813d-23d33c715030,respectful.catering,available,46.99,,high,low,10,name.com,,,
 b2636f64-1d17-4e4a-9711-34e4b82a2a75,balding.catering,available,38.99,38.99,low,low,7,namesilo,,,08/08/2026 09:35
-1c0b69fd-e9d7-4a9e-98e5-1e974183a8c9,usage.catering,available,46.99,50.99,high,low,5,name.com,,,
+1c0b69fd-e9d7-4a9e-98e5-1e974183a8c9,usage.catering,available,38.99,38.99,medium,low,5,namesilo,,,24/09/2026 04:06
 37aa528d-c6b1-4a26-ad6d-af4250bc24ae,astimesgo.catering,available,46.99,,medium,low,11,name.com,,,
-c20bcd61-d745-48ae-962e-ef431c79a401,iron.catering,available,38.99,38.99,high,low,4,namesilo,,,
+c20bcd61-d745-48ae-962e-ef431c79a401,iron.catering,available,38.99,38.99,medium,low,4,namesilo,,,23/09/2026 13:11
 28f12fae-28ea-487e-9309-35b5a822269a,fellowtravel.catering,available,38.99,38.99,medium,low,13,namesilo,,,
 b6fb976d-ac66-478d-ba12-a41886ef8827,thankful.catering,available,38.99,38.99,high,low,8,namesilo,,,
 9f7127e9-7082-497d-af5a-a452379f2811,hence.catering,available,46.99,,medium,low,5,name.com,,,
@@ -829,7 +828,7 @@ dbd11bce-b05a-478c-82dd-5480aee13bd1,magical.catering,available,38.99,38.99,high
 a1cef9f4-3815-438f-898d-2f063ed4918e,stclair.catering,available,38.99,38.99,medium,low,9,namesilo,,,
 83f8762c-19f1-48a8-b42b-57a87e5a3944,twenty.catering,available,38.99,38.99,medium,low,6,namesilo,,,21/09/2026 12:24
 946b634b-771b-49f1-9772-e5577039dd0a,esurient.catering,available,38.99,38.99,low,low,8,namesilo,,,07/08/2026 23:25
-6095e913-c6d1-43f1-b33b-a3d6443c7f3d,imaginable.catering,available,46.99,50.99,medium,low,10,name.com,,,
+6095e913-c6d1-43f1-b33b-a3d6443c7f3d,imaginable.catering,available,38.99,38.99,medium,low,10,namesilo,,,23/09/2026 18:44
 f2028d61-287f-4b5d-b1d8-f6e593fb97f1,coverart.catering,available,38.99,38.99,high,low,9,namesilo,,,
 314d8cb3-998c-4e29-8a0b-3a8743870cb1,heatwave.catering,available,38.99,38.99,medium,low,9,namesilo,,,
 8552c937-dadd-4e53-b9be-d9c75e43d6bb,chased.catering,available,38.99,38.99,high,low,6,namesilo,,,
@@ -852,7 +851,7 @@ d5c74697-7de7-4744-bbe4-b3a0406048ad,child.catering,available,38.99,38.99,high,l
 ca09503f-4b15-47d0-ad89-f190f4104f90,adjusted.catering,available,40.98,48.98,medium,low,8,namecheap,,,21/09/2026 18:42
 b5d329c9-8063-436a-91fe-fb27d8b21ccb,ninetyone.catering,available,38.99,38.99,low,low,10,namesilo,,,
 84412f82-e8f3-4432-97ea-ad72a023b510,paul.catering,premium,118.8,118.8,high,medium,4,namesilo,,,
-15be289f-168e-4fca-88cb-d414d0376a59,summary.catering,available,46.99,50.99,high,low,7,name.com,,,
+15be289f-168e-4fca-88cb-d414d0376a59,summary.catering,available,40.98,48.98,low,low,7,namecheap,,,23/09/2026 17:08
 63a94a53-6cbe-47bc-b921-a5c8e70f9994,beastly.catering,available,38.99,38.99,low,low,7,namesilo,,,09/08/2026 04:54
 8571cb20-e2bd-42f9-8b55-4f887cae609b,fortieth.catering,available,38.99,38.99,low,low,8,namesilo,,,
 05e94b7e-e61b-4d7d-a46e-2807bdb1ed6e,aldente.catering,available,38.99,38.99,medium,low,8,namesilo,,,
@@ -928,7 +927,7 @@ d539bd19-0437-4d9d-b61e-a7f00d5bdc86,protected.catering,available,38.99,38.99,hi
 64b3340e-402a-43f8-afb2-c39a955ec71c,adonic.catering,available,38.99,38.99,low,low,6,namesilo,,,
 1d58cee9-2fbe-4017-9bec-d42f7f3085be,tie.catering,available,38.99,38.99,high,low,3,namesilo,,,
 fb6fe4a1-01e4-4f9d-9eb9-a9da5f53440b,exhibit.catering,available,38.99,38.99,high,low,7,namesilo,,,
-465e72c2-2cdc-41e0-9e7b-12d03c2f21ad,education.catering,premium,118.8,118.8,medium,low,9,namesilo,,,19/09/2026 06:14
+465e72c2-2cdc-41e0-9e7b-12d03c2f21ad,education.catering,premium,118.8,118.8,medium,low,9,namesilo,,,23/09/2026 04:28
 83ff3da4-0a11-4758-bb0a-e30ec543f79e,transferableskill.catering,available,38.99,38.99,high,low,18,namesilo,,,
 62dbe450-263a-4bfb-aa7d-14ed55d52a5d,slope.catering,available,38.99,38.99,high,low,5,namesilo,,,
 856cd415-9e5c-4565-8a5d-fa8e53f77b29,purgative.catering,available,38.99,38.99,low,low,9,namesilo,,,05/08/2026 22:14
@@ -943,7 +942,7 @@ a510d936-aa26-4fa2-a9ea-01a36ed81e97,comingfromyou.catering,available,38.99,38.9
 28cf9fcb-4e1b-4770-bc64-bd94aafe1344,saintly.catering,available,38.99,38.99,low,low,7,namesilo,,,
 e9ef46bd-7a71-4a74-a2de-98cfdf836034,radar.catering,available,46.99,,high,low,5,name.com,,,
 3247e8ea-18be-4427-bc38-d5b20db2968c,befogged.catering,available,38.99,38.99,low,low,8,namesilo,,,09/08/2026 08:43
-e6555664-d1e6-4f0e-926d-d5fff6383eb9,dirty.catering,available,46.99,50.99,high,low,5,name.com,,,
+e6555664-d1e6-4f0e-926d-d5fff6383eb9,dirty.catering,available,38.99,38.99,low,low,5,namesilo,,,23/09/2026 21:45
 17f0536a-8215-4836-afdc-6b9b733997cd,bce.catering,available,38.99,38.99,medium,low,3,namesilo,,,
 ee6fcf18-7834-4711-98ff-106af0c13021,amenable.catering,available,40.98,48.98,low,low,8,namecheap,,,22/09/2026 04:02
 454deed9-b5e2-4e86-8235-62149760f21c,slave.catering,available,38.99,38.99,medium,low,5,namesilo,,,
@@ -999,3 +998,4 @@ d3bbc0be-c0a9-4da6-a191-c7247e119adb,aquiferous.catering,available,38.99,38.99,l
 6371bdab-24fe-4f9b-b5d7-22c3c6f7919c,commission.catering,available,38.99,38.99,high,low,10,namesilo,,,
 3281d3c7-7355-4c7b-bd25-b499e0d13c3f,database.catering,available,46.99,,high,low,8,name.com,,,
 be6cea6d-5597-4f1f-a6c8-56a306373b89,directly.catering,available,46.99,50.99,high,low,8,name.com,,,
+087ce969-e64b-42f0-8d6f-a370e5a70d36,texascity.catering,available,38.99,38.99,low,low,10,namesilo,,,
